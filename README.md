@@ -4,6 +4,8 @@
 <!--
 **BrunoRodrigues1009xd/BrunoRodrigues1009xd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-plain.svg" />
+          
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
