@@ -3,7 +3,6 @@
 ### Estudante do Curso Técnico de Desenvolvimneto de Sistemas
 
 
-            
-            <i class="devicon-bower-plain"></i>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" />
           
           
