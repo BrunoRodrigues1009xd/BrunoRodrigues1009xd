@@ -13,4 +13,5 @@
 
 
    
-   <img height="300px" scr="https://static.wikia.nocookie.net/angrybirdsgame/images/5/5d/Vermelho_240.png/revision/latest?cb=20141111230352&path-prefix=pt-br" />
+   <img height="300px" scr="![image](https://github.com/user-attachments/assets/be350017-9f7b-438a-acf8-b0334aabcc0c)
+" />
